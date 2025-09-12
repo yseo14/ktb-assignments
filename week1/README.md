@@ -56,8 +56,8 @@
 입출력, 1대1 경기 루프 처리, 게임 흐름을 처리합니다.
 
 ## 실행 화면
-![image.png](attachment:ec009690-1609-4c60-b282-040ac11311e8:image.png)
-![image.png](attachment:c12aeda0-757e-4dc3-aa75-8ab8d30ae42b:image.png)
-![image.png](attachment:4747aa7f-0131-44ea-8d66-e35923928d3b:image.png)
-![image.png](attachment:e60b07ab-cf2d-4250-abeb-1a497f4ffc2f:image.png)
-![image.png](attachment:eb115168-0c2e-4602-90b1-c977a85a2e82:image.png)
+<img width="697" height="865" alt="ex1" src="https://github.com/user-attachments/assets/8475b0c8-edad-432a-b433-e564626e8116" />
+<img width="1010" height="330" alt="ex2" src="https://github.com/user-attachments/assets/0a9d73a8-ce9f-450a-a5f3-6db0965ec0cd" />
+<img width="955" height="991" alt="ex3" src="https://github.com/user-attachments/assets/d34108ef-4fb9-41ef-8a32-741a7b9c5065" />
+<img width="912" height="832" alt="ex4" src="https://github.com/user-attachments/assets/835a8e05-2c08-484b-b568-d58c63e30a97" />
+<img width="760" height="706" alt="ex5" src="https://github.com/user-attachments/assets/ef11fa78-a589-4d35-8703-0a8cb8d47981" />
