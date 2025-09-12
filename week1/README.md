@@ -54,3 +54,10 @@
 게임(프로그램) 전체 흐름을 컨트롤하는 클래스입니다.
 
 입출력, 1대1 경기 루프 처리, 게임 흐름을 처리합니다.
+
+## 실행 화면
+![image.png](attachment:ec009690-1609-4c60-b282-040ac11311e8:image.png)
+![image.png](attachment:c12aeda0-757e-4dc3-aa75-8ab8d30ae42b:image.png)
+![image.png](attachment:4747aa7f-0131-44ea-8d66-e35923928d3b:image.png)
+![image.png](attachment:e60b07ab-cf2d-4250-abeb-1a497f4ffc2f:image.png)
+![image.png](attachment:eb115168-0c2e-4602-90b1-c977a85a2e82:image.png)
